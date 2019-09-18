@@ -5,4 +5,4 @@ This project consists of 3 files
 2) MovieLensReport in rmd format
 3) R script for MovieLens
 
-also data used for this project is shared here.
+
